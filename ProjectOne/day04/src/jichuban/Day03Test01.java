@@ -20,5 +20,6 @@ public class Day03Test01 {
             }
         }
         System.out.println(count);
+        System.out.println(count1);
     }
 }
